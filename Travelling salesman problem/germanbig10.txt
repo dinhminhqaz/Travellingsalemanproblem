@@ -1,0 +1,11 @@
+10
+Berlin Capital,52.5192,13.4061
+Cologne,50.9375,6.9603
+Dortmund,51.5136,7.4653
+Dusseldorf,51.2277,6.7735
+Essen,51.4556,7.0116
+Frankfurt,50.1109,8.6821
+Hamburg,53.5511,9.9937
+Munich,48.1366,11.5771
+Kamp-Linfort,51.502530,6.516200
+Stuttgart,48.7754,9.1818
